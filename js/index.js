@@ -78,7 +78,9 @@ function inputChange(e) {
   console.log(`Position: (${e.clientX}, ${e.clientY})`)
 }
 
-document.addEventListener('onclick')
+// document.querySelectorAll('img')[0].addEventListener('onclick',(e)=>{
+//   console.log(`Position: (${e.clientX}, ${e.clientY})`)
+// })
 
 
 
